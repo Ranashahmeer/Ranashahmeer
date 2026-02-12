@@ -215,7 +215,7 @@ I'm available for:
 
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0133d758bf3121e6a3)
 [![Email](https://img.shields.io/badge/Email-ranashahmeerali@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/[LinkedIn-Connect](https://www.linkedin.com/in/rana-shahmeer-ali-479592263/)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-shahmeer-ali-479592263/)
 
 **📍 Location:** Karachi, Pakistan (GMT+5)  
 **⏰ Availability:** 30+ hours/week  
