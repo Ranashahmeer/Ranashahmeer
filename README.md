@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Rana Shahmeer 👋
 
-<!--
-**Ranashahmeer/Ranashahmeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data & Automation Engineer** | Building scalable ETL pipelines & AI automations.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Projects
+- [ETL Pipeline Repo] - GCP data lake for 1M+ rows
+- [n8n Automation] - Workflow demos for Upwork
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ranashahmeer)](https://github.com/Ranashahmeer)
